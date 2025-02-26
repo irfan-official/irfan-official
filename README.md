@@ -1,6 +1,6 @@
 # 💫  Hey there! I'm Irfan
 
-A web developer passionate about crafting clean and interactive experiences.
+A web developer passionate about crafting clean and interactive experiences.  
 Engineering logic, debugging life – a CSE journey in progress.
 
 ## 🌐 Socials:
