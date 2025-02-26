@@ -12,23 +12,38 @@ I'm currently studying
 
 # 📊 GitHub Stats:
 
+<div align=center>
+
 ![](https://github-readme-stats.vercel.app/api?username=irfan-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 <br/>
+
+<div align=center>
+
 ![](https://github-contributor-stats.vercel.app/api?username=irfan-official&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div><br/>
+<div align=center>
+
+![](https://nirzak-streak-stats.vercel.app/?user=irfan-official&theme=dark&hide_border=false)
+
+</div>
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=irfan-official&theme=dark&hide_border=false)<br/>
+
+###  ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align=center>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=irfan-official&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
 ---
-
 [![](https://visitcount.itsvg.in/api?id=irfan-official&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
