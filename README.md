@@ -30,13 +30,15 @@ I'm currently studying
 ![](https://nirzak-streak-stats.vercel.app/?user=irfan-official&theme=dark&hide_border=false)
 
 </div>
-<br/>
+
 
 ###  ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <div align=center>
-
+  
+<br/>
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
