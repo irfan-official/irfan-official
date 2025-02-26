@@ -1,6 +1,7 @@
-# 💫 About Me:
+# 💫  Hey there! I'm Irfan
 
-I'm currently studying
+A web developer passionate about crafting clean and interactive experiences.
+Engineering logic, debugging life – a CSE journey in progress.
 
 ## 🌐 Socials:
 
