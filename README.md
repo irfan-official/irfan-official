@@ -72,3 +72,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=irfan-official&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![irfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irfan-official&theme=merko&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&title_color=9BC02B&color=9BC02B&point=f0ffa3)](https://github.com/irfan-official/github-readme-activity-graph)
+
