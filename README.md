@@ -19,7 +19,7 @@
 </picture>
 
 
-# 📊 GitHub Stats: <img src="./chart.svg" width="300" height="200" />
+<h1 style="display: flex; align-items: center;"><img style="transform: rotateX(17deg) rotateY(-9deg) rotateZ(0deg);" src="./chart.svg" width="60" height="60" /> GitHub Stats:</h1>
 
 <br/>
 
