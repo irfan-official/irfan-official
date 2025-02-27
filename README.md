@@ -26,7 +26,7 @@
       <td style="border: none; vertical-align: middle;">
         <img style="
           transform: rotateX(17deg) rotateY(-9deg) rotateZ(0deg);
-        " src="./chart.svg" width="60" height="60" alt="Chart icon" />
+        " src="./chart.svg" width="70" height="70" alt="Chart icon" />
       </td>
       <td style="border: none; vertical-align: middle;">
         GitHub Stats:
