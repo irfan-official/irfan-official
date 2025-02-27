@@ -24,9 +24,7 @@
   <table>
     <tr style="border: none;">
       <td style="border: none; vertical-align: middle;">
-        <img style="
-          transform: rotateX(17deg) rotateY(-9deg) rotateZ(0deg);
-        " src="./chart.svg" width="70" height="70" alt="Chart icon" />
+        <img src="./3Dchart.png" width="70" height="70" alt="Chart icon" />
       </td>
       <td style="border: none; vertical-align: middle;">
         GitHub Stats:
