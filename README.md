@@ -1,8 +1,9 @@
 <h1 align=center>💫  Hey there! I'm Irfan</h1>
 
-- A web developer passionate about crafting clean and interactive experiences.  
-- Engineering logic, debugging life – a CSE journey in progress.
-
+- 👨‍💻 A web developer passionate about crafting clean and interactive experiences.  
+- 🕸️ Engineering logic, debugging life – a CSE journey in progress.
+- 🎯 I’m currently working on MERN Stack
+  
 ## 🌐 Socials:
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@irfans.dev)
