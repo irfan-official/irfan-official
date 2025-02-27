@@ -19,7 +19,8 @@
 </picture>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: <img src="./chart.svg" width="300" height="200" />
+
 <br/>
 
 <div align=center>
