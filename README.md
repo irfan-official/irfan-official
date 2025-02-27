@@ -36,14 +36,14 @@
 <br/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=irfan-official&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=baf606&icon_color=9BC02B&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-official&layout=compact&hide_border=true&title_color=baf606&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Used Languages"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=irfan-official&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=baf606&icon_color=9BC02B&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-official&layout=compact&hide_border=true&title_color=baf606&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Used Languages"/>
 </div>
 
 </br>
 
 <div align="center">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=irfan-official&theme=dark&hide_border=true&background=0d1117&ring=baf606&currStreakLabel=54a300&fire=4c9400" alt="Streak Stats"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=irfan-official&theme=dark&hide_border=true&background=0d1117&ring=baf606&currStreakLabel=54a300&fire=4c9400&stroke=0000" alt="Streak Stats"/>
 </div>
 
 
