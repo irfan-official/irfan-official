@@ -1,9 +1,9 @@
 <h1 align=center>💫  Hey there! I'm Irfan</h1>
 
-- 👨‍💻 A web developer passionate about crafting clean and interactive experiences.  
+- 👨‍💻 A web developer passionate about crafting clean and interactive experiences.
 - 🕸️ Engineering logic, debugging life – a CSE journey in progress.
 - 🎯 I’m currently working on MERN Stack
-  
+
 ## 🌐 Socials:
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@irfans.dev)
@@ -18,9 +18,25 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/irfan-official/irfan-official/output/github-snake.svg" />
 </picture>
 
+<br/>
+<br/>
+<h1 style="border: none;">
+  <table>
+    <tr style="border: none;">
+      <td style="border: none; vertical-align: middle;">
+        <img style="
+          transform: rotateX(17deg) rotateY(-9deg) rotateZ(0deg);
+        " src="./chart.svg" width="60" height="60" alt="Chart icon" />
+      </td>
+      <td style="border: none; vertical-align: middle;">
+        GitHub Stats:
+      </td>
+    </tr>
+  </table>
 
-<h1 style="display: flex; align-items: center;"><img style="transform: rotateX(17deg) rotateY(-9deg) rotateZ(0deg);" src="./chart.svg" width="60" height="60" /> GitHub Stats:</h1>
+---
 
+</h1>
 <br/>
 
 <div align=center>
@@ -42,10 +58,10 @@
 
 </div>
 
-
-###  ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <div align=center>
   
 <br/>
@@ -58,5 +74,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=irfan-official&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=irfan-official&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=irfan-official&icon=0&color=0)](https://visitcount.itsvg.in)
