@@ -35,35 +35,21 @@
 </h1>
 <br/>
 
-<div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=irfan-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=irfan-official&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=baf606&icon_color=9BC02B&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-official&layout=compact&hide_border=true&title_color=baf606&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Used Languages"/>
 </div>
-<br/>
 
-<div align=center>
+</br>
 
-![](https://github-contributor-stats.vercel.app/api?username=irfan-official&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div><br/>
-<div align=center>
-<br/>
-  
-![](https://nirzak-streak-stats.vercel.app/?user=irfan-official&theme=dark&hide_border=false)
-
+<div align="center">
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=irfan-official&theme=dark&hide_border=true&background=0d1117&ring=baf606&currStreakLabel=54a300&fire=4c9400" alt="Streak Stats"/>
 </div>
+
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<div align=center>
-  
-<br/>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -73,5 +59,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=irfan-official&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![irfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irfan-official&theme=merko&hide_border=true&custom_title=Contribution%20Graph&bg_color=00000000&title_color=9BC02B&color=9BC02B&point=f0ffa3)](https://github.com/irfan-official/github-readme-activity-graph)
-
+[![irfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irfan-official&theme=merko&hide_border=true&custom_title=Contribution%20Graph&bg_color=00000000&title_color=baf606&color=baf606&point=f0ffa3&line=baf606&area_color=baf606&area=true)](https://github.com/irfan-official/github-readme-activity-graph)
