@@ -1,4 +1,5 @@
- <img src="./github-header-banner.png" width="80" height="80" alt="Chart icon" />
+<img src="./github-header-banner.png" alt="Header Banner" width="100%" />
+
 
 
 <h1 align="center">💫 Hey there! I'm Irfan</h1>
