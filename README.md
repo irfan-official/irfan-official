@@ -1,12 +1,18 @@
-<h1 align=center>💫  Hey there! I'm Irfan</h1>
+<h1 align="center">💫 Hey there! I'm Irfan</h1>
 
-- 👨‍💻 A web developer passionate about crafting clean and interactive experiences.
-- 🕸️ Engineering logic, debugging life – a CSE journey in progress.
-- 🎯 I’m currently working on MERN Stack
+- 👨‍💻 A web developer passionate about crafting clean and interactive user experiences.
+- 🎓 Graduated in **Computer Science & Engineering (CSE)** with a **CGPA of 3.02 / 4.00**.
+- 🧩 Engineering logic, solving problems, and continuously learning new technologies.
+- 🎯 Currently working with the **MERN Stack** and exploring modern backend tools.
 
-## 🌐 Socials:
+---
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:career@irfans.dev)
+## 🌐 Socials
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:career@irfans.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-irfan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com)
+
 
 <br/>
 
