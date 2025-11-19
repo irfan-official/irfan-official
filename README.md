@@ -79,4 +79,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=irfan-official&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![irfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irfan-official&theme=merko&hide_border=true&custom_title=Contribution%20Graph&bg_color=00000000&title_color=baf606&color=baf606&point=f0ffa3&line=baf606&area_color=baf606&area=true)](https://github.com/irfan-official/github-readme-activity-graph)
+[![irfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irfan-official&theme=merko&hide_border=true&custom_title=Contribution%20Graph&bg_color=00000000&title_color=0B6623&color=0B6623&point=0f8a00&line=0B6623&area_color=0B6623&area=true)](https://github.com/irfan-official/github-readme-activity-graph)
