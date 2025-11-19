@@ -1,3 +1,6 @@
+ <img src="./github-header-banner.png" width="80" height="80" alt="Chart icon" />
+
+
 <h1 align="center">💫 Hey there! I'm Irfan</h1>
 
 - 👨‍💻 A web developer passionate about crafting clean and interactive user experiences.
