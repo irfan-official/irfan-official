@@ -7,7 +7,7 @@
 - 👨‍💻 A web developer passionate about crafting clean and interactive user experiences.
 - 🎓 Graduated in **Computer Science & Engineering (CSE)** with a **CGPA of 3.02 / 4.00**.
 - 🧩 Engineering logic, solving problems, and continuously learning new technologies.
-- 🎯 Currently working with the **MERN Stack** and exploring modern backend tools.
+- 🎯 Currently learning Go (Golang) and diving into System Design concepts.
 
 ---
 
