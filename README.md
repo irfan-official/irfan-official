@@ -67,7 +67,7 @@
 </br>
 
 <div align="center">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=irfan-official&theme=dark&hide_border=true&background=0d1117&ring=baf606&currStreakLabel=54a300&fire=4c9400&stroke=0000" alt="Streak Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=irfan-official&theme=dark&hide_border=true&background=0d1117&ring=baf606&currStreakLabel=54a300&fire=4c9400&stroke=0000" alt="Streak Stats"/>
 </div>
 
 
