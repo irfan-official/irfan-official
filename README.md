@@ -4,7 +4,7 @@
 
 <h1 align="center">💫 Hey there! I'm Irfan</h1>
 
-- 👨‍💻 A web developer passionate about crafting clean and interactive user experiences.
+- 👨‍💻 Passionate about backend development, currently learning Go and System Design.
 - 🎓 Graduated in **Computer Science & Engineering (CSE)** with a **CGPA of 3.02 / 4.00**.
 - 🧩 Engineering logic, solving problems, and continuously learning new technologies.
 - 🎯 Currently learning Go (Golang) and diving into System Design concepts.
