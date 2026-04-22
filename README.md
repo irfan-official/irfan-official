@@ -12,6 +12,7 @@
 ---
 
 ## 🌐 Socials
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan-official&label=Profile%20views&color=0e75b6&style=flat" alt="devshahriar" /> </p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:career@irfans.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-irfan/)
